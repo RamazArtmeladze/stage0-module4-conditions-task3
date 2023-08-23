@@ -13,7 +13,7 @@ public class Seasons {
                 System.out.println("Winter");
             }
         } else {
-            System.out.println("Wrong number!");
+            System.out.println("wrong number!");
         }
     }
 }
